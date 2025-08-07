@@ -1,0 +1,32 @@
+HOW TO DOWNLOAD YOUR PROJECT FILES:
+
+Since I cannot create zip files directly, here are the ways to get all your files:
+
+METHOD 1 - Download from Browser (Recommended):
+1. You should see a download button or export option in your current environment
+2. Look for "Download Project" or "Export" buttons in the interface
+3. This will give you a complete zip file with all the code
+
+METHOD 2 - Copy Files Manually:
+All the files have been created in this project. You can:
+1. Copy each file's content from the file explorer on the left
+2. Create the same folder structure on your local machine
+3. Paste the content into corresponding files
+
+METHOD 3 - Git Clone (if available):
+If this environment supports git, you can clone the repository to your local machine.
+
+REQUIRED FILES TO COPY:
+├── src/App.tsx (Updated React component)
+├── backend/main.py (FastAPI server)
+├── backend/rewrite.py (T5 text rewriting)
+├── backend/requirements.txt (Python dependencies)
+├── backend/model/.gitkeep (Placeholder for your models)
+├── setup_instructions.md (Setup guide)
+└── All existing config files (package.json, etc.)
+
+IMPORTANT: Don't forget to add your model files:
+- backend/model/ai_detector_tfidf.pkl
+- backend/model/vectorizer.pkl
+
+The setup_instructions.md file contains complete setup steps for running the application locally.

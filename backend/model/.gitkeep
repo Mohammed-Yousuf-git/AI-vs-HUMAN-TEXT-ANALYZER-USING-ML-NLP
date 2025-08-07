@@ -1,0 +1,4 @@
+# Placeholder file for model directory
+# Place your model files here:
+# - ai_detector_tfidf.pkl (trained RandomForestClassifier)
+# - vectorizer.pkl (trained TfidfVectorizer)
