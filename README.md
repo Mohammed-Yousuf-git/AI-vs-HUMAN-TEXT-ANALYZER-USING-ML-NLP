@@ -1,4 +1,4 @@
-
+![App Demo](ai-vs-human.webp)
 # AI vs Human Text Detector + Humanizer
 
 A full-stack web application that detects whether text is AI-generated or human-written, and provides humanization capabilities for AI-detected content.
@@ -117,6 +117,8 @@ Rewrite AI-generated text to make it more human-like.
   "rewritten_text": "Humanized version of the text..."
 }
 ```
+##Demo
+![App Demo](demo.png)
 
 ## Model Requirements
 
