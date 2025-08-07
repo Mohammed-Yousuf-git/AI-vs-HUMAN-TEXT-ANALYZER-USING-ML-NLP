@@ -1,3 +1,4 @@
+
 # AI vs Human Text Detector + Humanizer
 
 A full-stack web application that detects whether text is AI-generated or human-written, and provides humanization capabilities for AI-detected content.
@@ -164,3 +165,12 @@ For production deployment:
 3. Serve the frontend through a web server like Nginx
 4. Configure proper CORS policies
 5. Set up environment variables for model paths and configurations
+
+### 🙋‍♂️ Author
+ Mohammed Yousuf
+AI Engineering Student | Passionate about Machine Learning, Computer Vision, and Real-World Applications 🚀
+Feel free to reach out or contribute!
+### 📄 License
+This project is licensed under the MIT License.
+### 🌟 Star this repository
+If you found this helpful, give it a ⭐ on GitHub!
